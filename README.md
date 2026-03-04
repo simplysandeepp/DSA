@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1158-market-analysis-i](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1158-market-analysis-i/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1321-restaurant-growth](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1341-movie-rating/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
