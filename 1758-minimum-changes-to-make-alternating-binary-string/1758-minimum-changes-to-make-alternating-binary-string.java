@@ -1,0 +1,19 @@
+class Solution {
+    public int minOperations(String s) {
+        int zc = 0,oc = 0;
+        for(int i=0;i<s.length();i++){
+            if((i%2==0 && s.charAt(i)=='1')){
+                zc++;
+            }else if((i%2==1 && s.charAt(i)=='0')){
+                zc++;
+            }
+
+            if(i%2==0 && s.charAt(i)=='0'){
+                oc++;
+            }else if(i%2==1 && s.charAt(i)=='1'){
+                oc++;
+            }
+        }
+        return Math.min(oc,zc);
+    }
+}
