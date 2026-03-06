@@ -9,7 +9,6 @@ class Solution {
             r= (r*10) + (x%10);
             x/=10;
         }
-        if(r==check) return true;
-        else return false;        
+        return (r==check);        
     }
 }
