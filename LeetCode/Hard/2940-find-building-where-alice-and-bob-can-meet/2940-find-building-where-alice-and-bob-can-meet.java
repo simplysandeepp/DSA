@@ -10,6 +10,7 @@ class Solution {
         build(2*idx+2,mid+1,right,heights);
         seg[idx]=Math.max(seg[2*idx+1],seg[2*idx+2]);
     }
+    
     public int queryfind(int idx,int left,int right,int qs,int target){
         if(right<qs || seg[idx]<=target) return -1;
         if(left==right) return left;
@@ -51,3 +52,4 @@ class Solution {
         return res;
     }
 }
+
