@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -152,14 +154,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
