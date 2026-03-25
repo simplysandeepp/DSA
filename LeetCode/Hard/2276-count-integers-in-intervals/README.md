@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-integers-in-intervals/?envType=problem-list-v2&envId=segment-tree">2276. Count Integers in Intervals</a></h2><h3>Hard</h3><hr><p>Given an <strong>empty</strong> set of intervals, implement a data structure that can:</p>
+<h2><a href="https://leetcode.com/problems/count-integers-in-intervals">2276. Count Integers in Intervals</a></h2><h3>Hard</h3><hr><p>Given an <strong>empty</strong> set of intervals, implement a data structure that can:</p>
 
 <ul>
 	<li><strong>Add</strong> an interval to the set of intervals.</li>
