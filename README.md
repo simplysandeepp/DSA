@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2276-count-integers-in-intervals](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/2276-count-integers-in-intervals/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [2276-count-integers-in-intervals](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/2276-count-integers-in-intervals/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Merge Sort
@@ -202,5 +204,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [2276-count-integers-in-intervals](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/2276-count-integers-in-intervals/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 <!---LeetCode Topics End-->
