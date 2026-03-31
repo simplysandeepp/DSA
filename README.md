@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1664-ways-to-make-a-fair-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1664-ways-to-make-a-fair-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
