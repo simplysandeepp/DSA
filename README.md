@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Queue
@@ -224,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
