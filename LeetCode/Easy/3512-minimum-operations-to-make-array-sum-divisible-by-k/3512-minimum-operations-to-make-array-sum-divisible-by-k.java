@@ -8,3 +8,4 @@ class Solution {
         return s%k;
     }
 }
+
