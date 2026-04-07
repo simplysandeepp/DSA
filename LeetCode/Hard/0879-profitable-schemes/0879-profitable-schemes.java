@@ -9,10 +9,10 @@ class Solution {
         }
         if (i > n) return 0;
         if (dp[k][i][j] != -1) return dp[k][i][j];
-        int include = 0, notInclude = 0;
-        notInclude = solve(k + 1, i, j, n, minProfit, group, profit);
-        include = solve(k + 1,i + group[k],Math.min(j + profit[k], minProfit),n,minProfit,group, profit);
-        return dp[k][i][j] = (include % mod + notInclude % mod) % mod;
+        int take = 0, notTake = 0;
+        notTake = solve(k + 1, i, j, n, minProfit, group, profit);
+        take = solve(k + 1,i + group[k],Math.min(j + profit[k], minProfit),n,minProfit,group, profit);
+        return dp[k][i][j] = (take % mod + notTake % mod) % mod;
     }
     public int profitableSchemes(int n, int minProfit, int[] group, int[] profit) {
         for (int i = 0; i < 102; i++) {
