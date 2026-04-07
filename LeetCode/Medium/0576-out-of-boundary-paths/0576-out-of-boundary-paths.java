@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     int MOD = 1000000007;
 
