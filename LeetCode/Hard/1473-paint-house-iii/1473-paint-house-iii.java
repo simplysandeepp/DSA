@@ -10,7 +10,8 @@ class Solution {
 
         int ans = Integer.MAX_VALUE;
 
-        if(houses[i] != 0){
+        if
+        (houses[i] != 0){
             int color = houses[i];
             return solve(houses, cost, m, n, t, i+1, color, (color != prv) ? nbr+1 : nbr);
         } else {
