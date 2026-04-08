@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0337-house-robber-iii/) | Medium |
+| [0547-number-of-provinces](https://github.com/simplysandeepp/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/simplysandeepp/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/simplysandeepp/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -251,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/simplysandeepp/DSA/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
