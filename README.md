@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simplysandeepp/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simplysandeepp/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/simplysandeepp/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
