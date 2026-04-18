@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/simplysandeepp/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/simplysandeepp/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
