@@ -1,33 +1,26 @@
 class Solution {
     public int romanToInt(String s) {
-        int total = 0;
-        int prevValue = 0;
+        int[] arr = new int[128];
 
-        for (int i = s.length() - 1; i >= 0; i--) {
-            int currentValue = getValue(s.charAt(i));
+        arr['I']=1; 
+        arr['V']=5; 
+        arr['X']=10;
+        arr['L']=50; 
+        arr['C']=100;
+        arr['D']=500; 
+        arr['M']=1000;
 
-            if (currentValue < prevValue) {
-                total -= currentValue;
+        int ans = 0;
+        int n = s.length()-1;
+
+        for (int i=n; i >= 0; i--) {
+            int temp = arr[s.charAt(i)];
+            if (i < s.length() - 1 && temp < arr[s.charAt(i + 1)]) {
+                ans -= temp;
             } else {
-                total += currentValue;
+                ans += temp;    
             }
-
-            prevValue = currentValue;
         }
-
-        return total;
-    }
-
-    private int getValue(char c) {
-        switch (c) {
-            case 'I': return 1;
-            case 'V': return 5;
-            case 'X': return 10;
-            case 'L': return 50;
-            case 'C': return 100;
-            case 'D': return 500;
-            case 'M': return 1000;
-            default: throw new IllegalArgumentException("Invalid Roman numeral character");
-        }
+        return ans;
     }
 }
