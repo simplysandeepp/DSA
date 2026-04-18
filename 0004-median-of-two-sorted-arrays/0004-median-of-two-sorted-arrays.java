@@ -12,9 +12,9 @@ class Solution {
         int x = arr.length;
 
         if (x % 2 != 0) {
-            return arr[x / 2]; 
+            return arr[x/2]; 
         } else {
-            return (arr[x / 2 - 1] + arr[x / 2]) / 2.0;
+            return (arr[x/2 - 1] + arr[x/2]) / 2.0;
         }
     }
 }
