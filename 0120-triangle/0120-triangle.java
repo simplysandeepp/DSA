@@ -1,3 +1,20 @@
+// class Solution {
+//     int n;
+//     public int minimumTotal(List<List<Integer>> triangle) {
+//         n = triangle.size();
+//         return solveRec(0,0,triangle);
+//     }
+//     public int solveRec(int i, int j, List<List<Integer>> triangle) {
+//         if(i == n-1) 
+//             return triangle.get(i).get(j);
+
+//         int down = triangle.get(i).get(j) + solveRec(i+1, j, triangle);
+//         int diagonal = triangle.get(i).get(j) + solveRec(i+1, j+1, triangle);
+//         return Math.min(down, diagonal);
+//     }
+// }
+
+
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
