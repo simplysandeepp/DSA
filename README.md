@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/simplysandeepp/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/simplysandeepp/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simplysandeepp/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
@@ -274,9 +277,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [2126-destroying-asteroids](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/simplysandeepp/DSA/tree/main/0547-number-of-provinces/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
