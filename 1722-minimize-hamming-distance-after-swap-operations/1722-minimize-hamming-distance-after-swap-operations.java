@@ -1,22 +1,22 @@
 class Solution {
-    public int minimumHammingDistance(int[] s, int[] t, int[][] a) {
-        int n = s.length;
+    public int minimumHammingDistance(int[] s, int[] t, int[][]] a) {
+        int n=s.length;
         List<List<Integer>> g = new ArrayList<>();
         for (int i=0; i<n; i++){
             g.add(new ArrayList<>());
         }
         for (int[] e : a) {
-            int u = e[0], v = e[1];
+            int u=e[0], v=e[1];
             g.get(u).add(v);
             g.get(v).add(u);
         }
 
         boolean[] v = new boolean[n];
-        int m = 0;
+        int m=0;
         for (int i=0; i<n; i++) {
             if (v[i]) continue;
             List<Integer> c = new ArrayList<>();
-            dfs(i, g, v, c);
+            dfs(i,g,v,c);
 
             Map<Integer, Integer> f = new HashMap<>();
             for (int x : c) f.put(s[x], f.getOrDefault(s[x], 0) + 1);
@@ -35,7 +35,7 @@ class Solution {
         c.add(i);
         for (int x : g.get(i)) {
             if (!v[x]) {
-                dfs(x, g, v, c);
+                dfs(x,g,v,c);
             }
         }
     }
