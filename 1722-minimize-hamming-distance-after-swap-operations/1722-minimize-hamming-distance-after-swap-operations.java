@@ -1,5 +1,5 @@
 class Solution {
-    public int minimumHammingDistance(int[] s, int[] t, int[][]] a) {
+    public int minimumHammingDistance(int[] s, int[] t, int[][] a) {
         int n=s.length;
         List<List<Integer>> g = new ArrayList<>();
         for (int i=0; i<n; i++){
