@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/simplysandeepp/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-paint-house-iii](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1473-paint-house-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1664-ways-to-make-a-fair-array](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/1664-ways-to-make-a-fair-array/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/simplysandeepp/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/simplysandeepp/DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/simplysandeepp/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/simplysandeepp/DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/simplysandeepp/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/simplysandeepp/DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
