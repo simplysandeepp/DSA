@@ -7,7 +7,7 @@ class Solution {
                 int diff = 0;
                 for(int i=0; i<q.length(); i++) {
                     if(q.charAt(i) != d.charAt(i)) diff++;
-                    if(diff > 2) break;
+                    if(diff > 2) break; // do se zyada hai toh wahi break krdo
                 }
                 if(diff <= 2) {
                     ans.add(q);
