@@ -14,8 +14,6 @@ class Solution {
         //different color check
         if (image[r][c] != real)
             return;
-
-        // changing its color
         image[r][c] = color;
 
         // all four directions
