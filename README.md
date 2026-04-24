@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/simplysandeepp/DSA/tree/main/0120-triangle/) | Medium |
 | [0337-house-robber-iii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0337-house-robber-iii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/simplysandeepp/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/simplysandeepp/DSA/tree/main/0494-target-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0576-out-of-boundary-paths/) | Medium |
 | [0741-cherry-pickup](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/simplysandeepp/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/simplysandeepp/DSA/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/simplysandeepp/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -328,4 +330,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/simplysandeepp/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/simplysandeepp/DSA/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
