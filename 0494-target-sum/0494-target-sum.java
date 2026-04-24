@@ -1,23 +1,30 @@
-public class Solution {
-
+class Solution {
+    int[][] dp;
+    int temp;
     public int findTargetSumWays(int[] nums, int target) {
-        int totalSum = Arrays.stream(nums).sum();
-        int[][] dp = new int[nums.length][2 * totalSum + 1];
+        int total=0;
+        for (int num : nums) total += num;
 
-        dp[0][nums[0] + totalSum] = 1;
-        dp[0][-nums[0] + totalSum] += 1;
+        if (Math.abs(target) > total) return 0;
+        temp = total;
 
-        for (int index = 1; index < nums.length; index++) {
-            for (int sum = -totalSum; sum <= totalSum; sum++) {
-                if (dp[index - 1][sum + totalSum] > 0) {
-                    dp[index][sum + nums[index] + totalSum] += dp[index -
-                        1][sum + totalSum];
-                    dp[index][sum - nums[index] + totalSum] += dp[index -
-                        1][sum + totalSum];
-                }
-            }
+        dp = new int[nums.length][2 * total + 1];
+        for (int i = 0; i < nums.length; i++) {
+            Arrays.fill(dp[i], -1);
+        }
+        return solve(nums, 0, 0, target);
+    }
+
+    int solve(int[] nums, int i, int sum, int target) {
+        if (i == nums.length) {
+            return sum == target ? 1 : 0;
+        }
+        if (dp[i][sum + temp] != -1) {
+            return dp[i][sum + temp];
         }
 
-        return Math.abs(target) > totalSum ? 0 : dp[nums.length - 1][target + totalSum];
+        int add = solve(nums, i+1, sum+ nums[i],target);
+        int sub = solve(nums, i+1, sum-nums[i], target);
+        return dp[i][sum + temp] = add + sub;
     }
 }
