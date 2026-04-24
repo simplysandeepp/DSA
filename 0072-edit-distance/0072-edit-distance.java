@@ -1,22 +1,64 @@
+// class Solution {
+//     public int minDistance(String word1, String word2) {
+//         return solve(word1, word2, 0, 0);
+//     }
+
+//     int solve(String w1, String w2, int i, int j) {
+        
+//         if(i == w1.length()) return w2.length() - j;
+//         if(j == w2.length()) return w1.length() - i;
+
+//         // if characters match
+//         if(w1.charAt(i) == w2.charAt(j)) {
+//             return solve(w1, w2, i+1, j+1);
+//         }
+
+//         int delete = solve(w1, w2, i+1, j);
+//         int insert = solve(w1, w2, i, j+1);
+//         int replace = solve(w1, w2, i+1, j+1);
+
+//         return 1 + Math.min(delete, Math.min(insert, replace));
+//     }
+// }
+
+
+
 class Solution {
-  public int minDistance(String word1, String word2) {
-    final int m = word1.length();
-    final int n = word2.length();
+    int[][] dp;
+    public int minDistance(String word1, String word2) {
+        int n = word1.length();
+        int m = word2.length();
+        dp = new int[n][m];
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                dp[i][j] = -1;
+            }
+        }
+        return solve(word1, word2, 0, 0);
+    }
 
-    int[][] dp = new int[m + 1][n + 1];
+    int solve(String w1, String w2, int i, int j) {
 
-    for (int i = 1; i <= m; ++i)
-      dp[i][0] = i;
+            // ye tere base cond hogye
+        if(i == w1.length()) 
+            return w2.length() - j;
+        if(j == w2.length()) 
+            return w1.length() - i;
 
-    for (int j = 1; j <= n; ++j)
-      dp[0][j] = j;
+        if(dp[i][j] != -1) 
+            return dp[i][j];
 
-    for (int i = 1; i <= m; ++i)
-      for (int j = 1; j <= n; ++j)
-        if (word1.charAt(i - 1) == word2.charAt(j - 1))
-          dp[i][j] = dp[i - 1][j - 1];
-        else
-          dp[i][j] = Math.min(dp[i - 1][j - 1], Math.min(dp[i - 1][j], dp[i][j - 1])) + 1;           
-    return dp[m][n];
-  }
+            // match mil gya
+        if(w1.charAt(i) == w2.charAt(j)) {
+            return dp[i][j] = solve(w1, w2, i+1, j+1);
+        }
+
+        // tino opn
+        int delete = solve(w1, w2, i+1, j);
+        int insert = solve(w1, w2, i, j+1);
+        int replace = solve(w1, w2, i+1, j+1);
+
+// min return karde
+        return dp[i][j] = 1 + Math.min(delete, Math.min(insert, replace));
+    }
 }
