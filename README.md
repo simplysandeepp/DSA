@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/simplysandeepp/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/simplysandeepp/DSA/tree/main/0120-triangle/) | Medium |
 | [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/simplysandeepp/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/simplysandeepp/DSA/tree/main/2615-sum-of-distances/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/simplysandeepp/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
