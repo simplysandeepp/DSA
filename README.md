@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/simplysandeepp/DSA/tree/main/0494-target-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0576-out-of-boundary-paths/) | Medium |
 | [0741-cherry-pickup](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
+| [0788-rotated-digits](https://github.com/simplysandeepp/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0879-profitable-schemes](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/simplysandeepp/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0396-rotate-function](https://github.com/simplysandeepp/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/simplysandeepp/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/simplysandeepp/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
