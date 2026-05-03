@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/simplysandeepp/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/simplysandeepp/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/simplysandeepp/DSA/tree/main/0120-triangle/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/simplysandeepp/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/simplysandeepp/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/simplysandeepp/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/simplysandeepp/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/simplysandeepp/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/simplysandeepp/DSA/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/simplysandeepp/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/simplysandeepp/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/simplysandeepp/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
