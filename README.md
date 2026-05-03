@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/simplysandeepp/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0242-valid-anagram](https://github.com/simplysandeepp/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/simplysandeepp/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -381,4 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/simplysandeepp/DSA/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
