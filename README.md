@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/simplysandeepp/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/simplysandeepp/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Sorting
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/simplysandeepp/DSA/tree/main/0010-regular-expression-matching/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/simplysandeepp/DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
