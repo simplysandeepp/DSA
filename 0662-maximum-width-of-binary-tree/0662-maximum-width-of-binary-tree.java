@@ -19,10 +19,9 @@ class Solution {
         while (!q.isEmpty()) {
             int size = q.size();
             int minIndex = q.peekFirst().index;  // normalization
-
             int first = 0, last = 0;
-
             for (int i = 0; i < size; i++) {
+
                 Pair curr = q.poll();
                 TreeNode node = curr.node;
                 int idx = curr.index - minIndex;
@@ -40,6 +39,7 @@ class Solution {
             }
 
             maxWidth = Math.max(maxWidth, last - first + 1);
+            
         }
 
         return maxWidth;
