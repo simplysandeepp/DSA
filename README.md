@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/simplysandeepp/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/simplysandeepp/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/simplysandeepp/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/simplysandeepp/DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sliding Window
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/simplysandeepp/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/simplysandeepp/DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/simplysandeepp/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -402,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/simplysandeepp/DSA/tree/main/0796-rotate-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->
