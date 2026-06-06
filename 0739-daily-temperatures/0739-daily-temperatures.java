@@ -1,26 +1,28 @@
-import java.util.Stack;
-
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
-        int n = temperatures.length;
-        int[] answer = new int[n]; 
-        Stack<int[]> stack = new Stack<>();
- 
-        for (int i = 0; i < n; i++) {
-            int currentTemp = temperatures[i];
-            
+        int[] days = new int[temperatures.length];
 
-            while (!stack.isEmpty() && stack.peek()[0] < currentTemp) {
-                int[] prevDay = stack.pop();
-                int prevTemp = prevDay[0];
-                int prevIndex = prevDay[1];
+        Stack<Integer> stack = new Stack<>();
+        stack.push(0);
 
-                answer[prevIndex] = i - prevIndex;
+        for (int i = 1; i < temperatures.length; i++) {
+            int currTemp = temperatures[i];
+
+            while (!stack.isEmpty()) {
+                int idx = stack.peek();
+                int tempTop = temperatures[idx];
+
+                if (tempTop < currTemp) {
+                    days[idx] = i - idx;
+                    stack.pop();
+                } else {
+                    break;
+                }
             }
-        
-            stack.push(new int[]{currentTemp, i});
+
+            stack.push(i);
         }
-        
-        return answer;
+
+        return days;
     }
 }
