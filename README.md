@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/simplysandeepp/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/simplysandeepp/DSA/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/simplysandeepp/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0741-cherry-pickup](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/simplysandeepp/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/simplysandeepp/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/simplysandeepp/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/simplysandeepp/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/simplysandeepp/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/simplysandeepp/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/simplysandeepp/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## String
