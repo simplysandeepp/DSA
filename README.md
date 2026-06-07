@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/simplysandeepp/DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/simplysandeepp/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0072-edit-distance](https://github.com/simplysandeepp/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/simplysandeepp/DSA/tree/main/0120-triangle/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/simplysandeepp/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/simplysandeepp/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0396-rotate-function](https://github.com/simplysandeepp/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/simplysandeepp/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/simplysandeepp/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -518,4 +520,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/simplysandeepp/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
