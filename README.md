@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/simplysandeepp/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/simplysandeepp/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/simplysandeepp/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/simplysandeepp/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/simplysandeepp/DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/simplysandeepp/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simplysandeepp/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/simplysandeepp/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/simplysandeepp/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/simplysandeepp/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/simplysandeepp/DSA/tree/main/3161-block-placement-queries/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/simplysandeepp/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
