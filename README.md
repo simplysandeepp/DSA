@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1871-jump-game-vii](https://github.com/simplysandeepp/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/simplysandeepp/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/simplysandeepp/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/simplysandeepp/DSA/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/simplysandeepp/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/simplysandeepp/DSA/tree/main/3161-block-placement-queries/) | Hard |
+| [3225-maximum-score-from-grid-operations](https://github.com/simplysandeepp/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/simplysandeepp/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/simplysandeepp/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/simplysandeepp/DSA/tree/main/2615-sum-of-distances/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/simplysandeepp/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/simplysandeepp/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3225-maximum-score-from-grid-operations](https://github.com/simplysandeepp/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/simplysandeepp/DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
