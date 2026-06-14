@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/simplysandeepp/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/simplysandeepp/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/simplysandeepp/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/simplysandeepp/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/simplysandeepp/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simplysandeepp/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/simplysandeepp/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/simplysandeepp/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/simplysandeepp/DSA/tree/main/0901-online-stock-span/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/simplysandeepp/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/simplysandeepp/DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/simplysandeepp/DSA/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/simplysandeepp/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
